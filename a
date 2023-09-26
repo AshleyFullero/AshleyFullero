@@ -1,0 +1,11 @@
+button,
+inpuy,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-feauture-settings: inherit;
+  font-variation-settings: inherit;
+  font-size: 100%;
+  font weight: inherit:
+}
