@@ -1,33 +1,21 @@
 <div align="center">
 
+<!-- Top Waving Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A855F7,100:7C3AED&height=100&section=header" width="100%" />
 
+<!-- Highlighted Main Banner -->
 <a href="https://github.com/AshleyFullero">
   <img width="95%" alt="Ashley Nicole Fullero Banner" src="https://github.com/user-attachments/assets/db0b02e5-7e91-4782-89d0-212b0e2e2f04" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </a>
 
-<br><br>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ashley+Nicole+Fullero+%F0%9F%91%8B;UI%2FUX+Designer+%F0%9F%8E%A8;Product+Strategist+%F0%9F%9A%80;Hackathon+Champion+%F0%9F%8F%86;Short-Form+Video+Creator+%F0%9F%8E%AC;Building+products+people+love+%F0%9F%92%9C" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2200&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ashley+Nicole+Fullero+%F0%9F%91%8B;UI%2FUX+Designer+%26+Product+Strategist+%F0%9F%9A%80;AI+%26+Multi-Agent+Architecture+Enthusiast+%F0%9F%A4%96;Backend+PHP+Developer+%F0%9F%92%BB;Short-Form+Video+Creator+%F0%9F%8E%AC;Building+products+people+love+%F0%9F%92%9C" alt="Typing SVG" />
+<h3 align="center">🤝 Connect With Me</h3>
 
-<br>
-
+<!-- Social & Contact Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashley-nicole-fullero/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ashleyfullero0906@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/shlyfullero/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/ashley.nicole.fullero">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://x.com/AshleyFullero96">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/ashley-nicole-fullero/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="mailto:ashleyfullero0906@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.instagram.com/shlyfullero/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a><a href="https://www.facebook.com/ashley.nicole.fullero"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a><a href="https://x.com/AshleyFullero96"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 </div>
@@ -50,14 +38,7 @@
 
 ---
 
-## 🐍 Contribution Ecosystem
-
-<div align="center">
-  <!-- Interactive Slithering Snake Animation -->
-  <img src="https://raw.githubusercontent.com/AshleyFullero/AshleyFullero/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
-<br>
+## 📊 Analytics & Activity Stats
 
 <div align="center">
   <!-- Most Used Languages Card -->
@@ -71,7 +52,7 @@
 <!-- Animated Passion Quote Card -->
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=2000&color=C084FC&center=true&vCenter=true&width=800&height=120&lines=%22Building+products+people+love.%22;%22Designing+with+purpose+and+passion.%22;%22Architecting+the+future+with+AI+and+creative+strategy.%22" alt="Passion Quotes" style="border: 1px solid #7C3AED; border-radius: 10px; background-color: #0f172a; padding: 10px;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=4000&pause=2000&color=C084FC&center=true&vCenter=true&width=800&height=120&lines=%22Building+products+people+love.%22;%22Designing+with+purpose+and+passion.%22;%22Architecting+the+future+with+creative+strategy.%22" alt="Passion Quotes" style="border: 1px solid #7C3AED; border-radius: 10px; background-color: #0f172a; padding: 10px;" />
   </a>
 </div>
 
