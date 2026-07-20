@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://x.com/AshleyFullero96">
-<img src="https://img.shields.io/badge/X-000000?"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
