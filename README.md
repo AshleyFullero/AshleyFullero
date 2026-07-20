@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 Analytics & Activity Stats
+## Analytics & Activity Stats
 
 <div align="center">
   <!-- Most Used Languages Card -->
