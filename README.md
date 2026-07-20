@@ -1,21 +1,17 @@
 <div align="center">
 
-<!-- Top Waving Header (Smaller, No Text, Pure Design) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:A855F7,100:7C3AED&height=100&section=header" width="100%" />
 
-<!-- Highlighted Main Banner -->
 <a href="https://github.com/AshleyFullero">
   <img width="95%" alt="Ashley Nicole Fullero Banner" src="https://github.com/user-attachments/assets/db0b02e5-7e91-4782-89d0-212b0e2e2f04" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
 </a>
 
 <br><br>
 
-<!-- Enhanced Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2200&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ashley+Nicole+Fullero+%F0%9F%91%8B;UI%2FUX+Designer+%26+Product+Strategist+%F0%9F%9A%80;AI+%26+Multi-Agent+Architecture+Enthusiast+%F0%9F%A4%96;Backend+PHP+Developer+%F0%9F%92%BB;Short-Form+Video+Creator+%F0%9F%8E%AC;Building+products+people+love+%F0%9F%92%9C" alt="Typing SVG" />
 
 <br>
 
-<!-- Social & Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ashley-nicole-fullero/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
